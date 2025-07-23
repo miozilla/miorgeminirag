@@ -28,8 +28,6 @@ miorgeminirag : Insurance Chat Assistant # RAG # MongoDB Atlas # Google Cloud # 
 
 ![miorgeminirag008.png](./media/miorgeminirag008.png)
 
-![miorgeminirag008.png](./media/miorgeminirag008.png)
-
 ![miorgeminirag009.png](./media/miorgeminirag009.png)
 
 ![miorgeminirag010.png](./media/miorgeminirag010.png)
